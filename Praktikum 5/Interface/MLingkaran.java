@@ -1,3 +1,10 @@
+
+/*
+ * File : MLingkaran.java
+ * Penulis : Dorino Baharson
+ * tanggal : 3/30/2023
+ * Deskripsi : Implementasi cara menghitung luas lingkaran
+ */
 package Interface;
 
 import java.util.Scanner;

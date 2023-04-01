@@ -2,7 +2,7 @@
  * File : BangunDatar.java
  * Penulis : Dorino Baharson
  * tanggal : 3/30/2023
- * Deskripsi : representasi dari objek Bangun Datar
+ * Deskripsi : kelas abstrak, berisi abstraksi bangun datar
  */
 
 package Abstrak;

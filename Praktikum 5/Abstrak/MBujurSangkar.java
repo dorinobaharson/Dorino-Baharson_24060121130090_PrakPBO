@@ -1,3 +1,10 @@
+
+/*
+ * File : MBujurSangkar.java
+ * Penulis : Dorino Baharson
+ * tanggal : 3/30/2023
+ * Deskripsi : kelas yang mengimplementasikan cara menghitung luas bujur sangkar
+ */
 package Abstrak;
 
 import java.util.Scanner;
